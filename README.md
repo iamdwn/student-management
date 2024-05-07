@@ -9,9 +9,9 @@ Spring Security: For handling user authentication and authorization.
 
 ## Features
 
-CRUD of Student
-CRUD of Subject
-CRUD of Score
+CRUD of Student.
+CRUD of Subject.
+CRUD of Score.
 
 ## Getting Started
 
